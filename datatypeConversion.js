@@ -1,3 +1,4 @@
+DAY 3
 let score = "24abv"
 console.log(typeof score) // string type 
 console.log(typeof(score)) // string type 
