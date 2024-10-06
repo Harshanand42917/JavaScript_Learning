@@ -1,3 +1,4 @@
+DAY 1 
 const accoundId = 133456;
 let accountEmail = "harshanand121@gmail.com";
 var accountPass = "12345";
