@@ -1,3 +1,4 @@
+DAY 4
 // based on how is data stored and accessed we divide datatypes into two types
 
 // Primitive and Non-primitive
